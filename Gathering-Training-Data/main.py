@@ -2,7 +2,7 @@ import os
 import cv2
 
 # Set label name and create output folder
-person_name = 'Meshach'
+person_name = 'Wennah'
 output_folder = f'faces/{person_name}'
 os.makedirs(output_folder, exist_ok=True)
 
